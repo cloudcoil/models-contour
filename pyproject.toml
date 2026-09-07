@@ -1,6 +1,6 @@
 [project]
 name = "cloudcoil.models.contour"
-version = "0.0.0"
+version = "1.33.7.0"
 description = "Versioned contour models for cloudcoil"
 authors = [{ name = "Sambhav Kothari", email = "sambhavs.email@gmail.com" }]
 maintainers = [{ name = "Sambhav Kothari", email = "sambhavs.email@gmail.com" }]
